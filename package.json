@@ -1,14 +1,15 @@
 {
   "name": "com.supergosu.statemachine",
-  "displayName": "Generic StateMachine",
+  "displayName": "Gosu StateMachine",
   "version": "1.0.0",
   "unity": "2018.4",
-  "description": "Simple StateMachine system for Unity",
+  "description": "Simple StateMachine",
   "keywords": [
     "StateMachine",
     "Generic",
     "State",
-	"Machine"
+	"Machine",
+	"Gosu"
   ],
   "category": "editor extensions",
   "homepage": "https://github.com/SuperGosu/StateMachine",
