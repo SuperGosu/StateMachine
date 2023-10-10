@@ -1,24 +1,25 @@
 {
-  "name": "com.gosu.simplemath",
-  "displayName": "Simple Math",
+  "name": "com.supergosu.statemachine",
+  "displayName": "Generic StateMachine",
   "version": "1.0.0",
   "unity": "2018.4",
-  "description": "Simple Math system for Unity",
+  "description": "Simple StateMachine system for Unity",
   "keywords": [
-    "Math",
-    "Add",
-    "Optimization"
+    "StateMachine",
+    "Generic",
+    "State",
+	"Machine"
   ],
   "category": "editor extensions",
-  "homepage": "https://github.com/brunomikoski/SimplePool",
+  "homepage": "https://github.com/SuperGosu/StateMachine",
   "repository": {
     "type": "git",
-    "url": "https://github.com/brunomikoski/SimplePool.git"
+    "url": "https://github.com/SuperGosu/StateMachine"
   },
-  "bugs": "https://github.com/brunomikoski/issues",
+  "bugs": "https://github.com/SuperGosu/StateMachine",
   "author": {
-    "name": "Linh",
-    "url": "https://www.brunomikoski.com"
+    "name": "Super Gosu",
+    "url": "https://github.com/SuperGosu"
   },
   "type": "library",
   "publishConfig": {

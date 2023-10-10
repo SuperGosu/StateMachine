@@ -1,1 +1,1 @@
-# SimplePool
+# Simple StateMachine
