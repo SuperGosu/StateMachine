@@ -23,6 +23,6 @@
   },
   "type": "library",
   "publishConfig": {
-    "registry": "https://package.openupm.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
